@@ -29,7 +29,7 @@ github_username:  jaumefonte
 linkedin_username:  jaumefonte
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
