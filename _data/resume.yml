@@ -7,7 +7,7 @@ demo: false
 photo: "images/profile.jpg"
 name: "Jaume Fonte Cano"
 # copy: "I'm a UI/UX Developer based in Vancouver, Canada. More than five years of experience in design/development and have a passion for giving back to the local tech community as an instructor."
-copy: "Un pequeño resumen de las cosas que hago."
+copy: "A sneak peek of things I've done."
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
